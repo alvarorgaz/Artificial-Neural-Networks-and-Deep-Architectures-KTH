@@ -8,7 +8,7 @@ I am Álvaro Orgaz Expósito, a data science student at KTH (Stockholm, Sweden) 
 
 This repository contains the assignments (code + report) of the ANN and Deep Architectures course in my master's degree in Data Science at KTH (Stockholm, Sweden).
 
-- *Assignment 1*: 
+- *Assignment 1*: Learning and generalisation in feed-forward networks from perceptron learning to backpropagation.
 
 **Code:**
 
