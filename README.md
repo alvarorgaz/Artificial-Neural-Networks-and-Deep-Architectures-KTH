@@ -10,6 +10,12 @@ This repository contains the assignments (code + report) of the ANN and Deep Arc
 
 - *Assignment 1*: Learning and generalisation in feed-forward networks from perceptron learning to backpropagation.
 
+- *Assignment 2*: Radial basis functions (RBF), competitive learning and self-organised maps (SOM).
+
+- *Assignment 3*: Hopfield networks.
+
+- *Assignment 4*: Deep neural network architectures with autoencoders (MNIST dataset).
+
 **Code:**
 
 The project has been developed in Python using Jupyter Notebook.
