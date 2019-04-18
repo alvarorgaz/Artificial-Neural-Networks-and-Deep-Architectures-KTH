@@ -14,7 +14,7 @@ This repository contains the assignments (code + report) of the ANN and Deep Arc
 
 - *Assignment 3*: Hopfield networks.
 
-- *Assignment 4*: Deep neural network architectures with autoencoders (MNIST dataset).
+- *Assignment 4*: Deep neural network architectures with autoencoders using Keras (applied to MNIST images dataset).
 
 **Code:**
 
